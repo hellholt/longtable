@@ -1,2 +1,2 @@
-# longtable
-Argo CD App-of-Apps pattern for a Kubernetes cluster.
+# Longtable
+Argo CD App-of-Apps pattern for this cluster.
